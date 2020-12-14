@@ -1,0 +1,9 @@
+[
+  {
+    "nombre": "niels.sanchez@gmail.com",
+    "password": "niels123",
+    "late_training_day": [0, 1, 2],
+    "mid__training_day": [4],
+    "morning_training_day": [5]
+  }
+]
